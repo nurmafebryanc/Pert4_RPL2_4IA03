@@ -1,0 +1,1 @@
+Pada RPL2 dibuat implementasi dasar mengenai Object Relational Mapping (ORM) menggunakan Framework Hibernate dalam bahasa pemrograman Java. Materi ini bertujuan untuk memahami bagaimana Java dapat berkomunikasi dengan database tanpa perlu menulis query SQL secara langsung.
